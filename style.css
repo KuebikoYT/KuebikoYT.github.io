@@ -152,11 +152,11 @@ height: 100%;
 }
 
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #000 !important;
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #1abc9c !important;
+    color: #505050 !important;
     background-color: #fff !important;
 }
 
