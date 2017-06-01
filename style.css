@@ -20,7 +20,7 @@ color: dimgrey;
 
 }
 .bgimg-1 {
-  background-image: url("windowman.jpeg");
+  background-image: url("windowman.jpg");
   min-height: 100%;
 }
 .yourboy {
@@ -35,7 +35,7 @@ background-color: #777;
 position: static;
 }
 .bgimg-2 {
-  background-image: url("tunnel.jpeg");
+  background-image: url("tunnel.jpg");
   min-height: 400px;
 }
 
@@ -114,7 +114,7 @@ position: static;
 }
 
 .bgimg-3 {
-  background-image: url("factory.jpg");
+  background-image: url("neworleans.jpg");
   min-height: 400px;
 }
 
