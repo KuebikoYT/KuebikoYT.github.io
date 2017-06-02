@@ -1,0 +1,82 @@
+body {
+  padding: 2px 0 0 2px;
+}
+
+.gallery img {
+  float: left;
+  padding: 0 2px 2px 0;
+  /* Yes, you *can* adjust/remove padding. */
+}
+.header {
+color: #777
+background-color: white;
+text-align: center;
+padding-top: 0px;
+text-align: justify;
+}
+
+.bg {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-image: url("windowman.jpg");
+  min-height: 100%;
+  text-align: center;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #1abc9c;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #000 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #505050 !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+.navbar-brand-centered {
+    position: absolute;
+    left: 50%;
+    display: block;
+    width: 160px;
+    text-align: center;
+    background-color: transparent;
+}
+.navbar>.container .navbar-brand-centered, 
+.navbar>.container-fluid .navbar-brand-centered {
+    margin-left: -80px;
+}
+
+.bgimg-1 {
+background-image: url("stars.jpg");
+ padding-top: 250px;
+height: 250px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.text {
+text-align: center;
+margin: -125px;
+
+}
+
